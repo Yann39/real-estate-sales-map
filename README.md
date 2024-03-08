@@ -21,10 +21,10 @@ Simple **Python** program that parses a **CSV** file to display geolocation data
 <table>
   <tr>
     <td>
-      <img alt="Python logo" src="logo-python.svg" height="64"/>
+      <img alt="Python logo" src="doc/logo-python.svg" height="72"/>
     </td>
     <td>
-      <img alt="Folium logo" src="logo-folium.png" height="48"/>
+      <img alt="Folium logo" src="doc/logo-folium.png" height="68"/>
     </td>
   </tr>
 </table>
@@ -54,10 +54,10 @@ Each year is represented by a circle of different color, and the size of the cir
 <table>
   <tr>
     <td>
-      <img alt="Full map" src="map.png"/>
+      <img alt="Full map" src="doc/map.png"/>
     </td>
     <td>
-      <img alt="Zoomed map with tooltips" src="map-with-info.png"/>
+      <img alt="Zoomed map with tooltips" src="doc/map-with-info.png"/>
     </td>
   </tr>
 </table>
